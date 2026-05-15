@@ -1,0 +1,11 @@
+transaction_id,upi_id,currency,payment_method,upi_app,bank,status,amount_slab,transaction_amount,date,time,year,fraud_label
+TXN1001,user1@ybl,INR,upi,Amazon Pay,Axis,failed,large,85000,10-05-2026,02:45 PM,2026,Fraud
+TXN1002,user2@oksbi,INR,upi,PhonePe,SBI,success,small,500,11-05-2026,10:00 AM,2026,Legit
+TXN1003,user3@ybl,INR,upi,Google Pay,HDFC,success,large,9000000,11-05-2026,01:00 AM,2026,Fraud
+TXN1004,user4@paytm,INR,upi,Paytm,ICICI,failed,medium,15000,12-05-2026,11:30 PM,2026,Fraud
+TXN1005,user5@ybl,INR,upi,Amazon Pay,Axis,success,small,1000,12-05-2026,09:15 AM,2026,Legit
+TXN1006,user6@oksbi,INR,upi,PhonePe,SBI,success,large,850000000,13-05-2026,03:00 AM,2026,Fraud
+TXN1007,user7@ybl,INR,upi,Google Pay,HDFC,failed,large,70000000,13-05-2026,02:00 AM,2026,Fraud
+TXN1008,user8@paytm,INR,upi,Paytm,ICICI,success,medium,7000,13-05-2026,12:00 PM,2026,Legit
+TXN1009,user9@ybl,INR,upi,Amazon Pay,Axis,success,small,300,14-05-2026,10:00 AM,2026,Legit
+TXN1010,user10@oksbi,INR,upi,PhonePe,SBI,failed,large,990000,14-05-2026,01:00 AM,2026,Fraud
